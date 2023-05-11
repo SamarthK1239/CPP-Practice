@@ -1,0 +1,13 @@
+# ninja log v5
+1	800	7055007440023301	CMakeFiles/CPP_Practice.dir/main.cpp.obj	2eeaf1c70087d093
+801	1054	7055007442521401	CPP_Practice.exe	5cb4b8cfc5d2b6e6
+4	903	7055020249385073	CMakeFiles/CPP_Practice.dir/main.cpp.obj	2eeaf1c70087d093
+903	1267	7055020253646261	CPP_Practice.exe	5cb4b8cfc5d2b6e6
+3	743	7055022378374384	CMakeFiles/CPP_Practice.dir/main.cpp.obj	2eeaf1c70087d093
+743	962	7055022380114641	CPP_Practice.exe	5cb4b8cfc5d2b6e6
+4	611	7055026488863902	CMakeFiles/CPP_Practice.dir/main.cpp.obj	2eeaf1c70087d093
+612	767	7055026490385401	CPP_Practice.exe	5cb4b8cfc5d2b6e6
+4	611	7055026580668522	CMakeFiles/CPP_Practice.dir/main.cpp.obj	2eeaf1c70087d093
+612	838	7055026582562185	CPP_Practice.exe	5cb4b8cfc5d2b6e6
+2	560	7055027219494963	CMakeFiles/CPP_Practice.dir/main.cpp.obj	2eeaf1c70087d093
+562	759	7055027221224437	CPP_Practice.exe	5cb4b8cfc5d2b6e6
