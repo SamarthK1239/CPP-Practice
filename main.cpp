@@ -25,6 +25,7 @@ public:
     };
 };
 
+
 class Car {
 public:
     string brand;
@@ -50,11 +51,10 @@ int main() {
     cout << num << endl;
     return 0;
 
-    /*MiscFunctions mainClass;
-    cout << "Hello, World!" << endl;
-    cout << mainClass.getUserInput() << endl;
-    return 0;
-     */
+//    MiscFunctions mainClass;
+//    cout << "Hello, World!" << endl;
+//    cout << mainClass.getUserInput() << endl;
+//    return 0;
 }
 
 
